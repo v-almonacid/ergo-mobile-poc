@@ -10,8 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "react": "16.13.1",
-    "react-native": "0.63.4"
+    "react-native": "0.63.4",
+    "safe-buffer": "^5.2.1",
+    "text-encoding-polyfill": "^0.6.7",
+    "util": "^0.12.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
